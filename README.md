@@ -1,2 +1,2 @@
-# Based-on-a-True-Story-Game
-First game jam
+# WorpGame
+GameJam J&amp;J
